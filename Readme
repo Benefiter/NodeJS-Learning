@@ -1,0 +1,2 @@
+Run: node index.js to run and test and express CRUD restful api
+Run: node <jsFile> where jsFile in (ap.js, events.js, fs.js, http.js, logger.js, os.js) to see the functionality implemented for each of those js files. 
